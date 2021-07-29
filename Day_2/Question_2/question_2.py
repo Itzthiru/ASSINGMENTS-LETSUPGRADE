@@ -10,7 +10,7 @@ def checkpangram(str):
    return True
 
 
-my_string = 'The five boxing wizards jump quickly.'
+my_string = 'Jackdaws love my big sphinx of quartz.'
 
 
 
